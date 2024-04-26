@@ -1,6 +1,3 @@
-# Vigésimo desafio de codar em js.
-Construindo sistema para gerar um gradiente linear para o fundo de uma página web. Que permite ao usuário selecionar duas cores e uma direção para um gradiente linear, 
-gerando automaticamente o código CSS correspondente e permitindo que o usuário o copie para uso posterior.
 
 ## Captura da tela
 Aqui a captura da tela com o projeto :
